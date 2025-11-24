@@ -4,5 +4,4 @@
 Этот репозиторий выступает каркасом для будущего веб-приложения
 
 ## Ссылки 
-- [Публичная страница на GitHub Pages] (https://karllione.github.io/
-new_repository_mirea/)
+- [Публичная страница на GitHub Pages] (https://karllione.github.io/new_repository_mirea/)
